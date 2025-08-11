@@ -2,7 +2,7 @@
 -  I suck on coding
 -  Python seems to be easy
 -  My discord username is progame12476
--  Pronouns: he/him
+
 
 <!---
 progame12476/progame12476 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
